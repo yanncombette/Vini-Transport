@@ -11,7 +11,7 @@ import SwiftUI
 struct Vini_TransportApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
